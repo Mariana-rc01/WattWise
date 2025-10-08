@@ -13,6 +13,7 @@ stats/
 Lib/
 Include/
 Scripts/
+.python-version
 
 # --- Notebooks Jupyter ---
 .ipynb_checkpoints
