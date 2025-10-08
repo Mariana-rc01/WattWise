@@ -1,0 +1,54 @@
+# --- Arquivos e pastas do Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Ambientes virtuais ---
+venv/
+.env/
+.venv/
+env/
+.stats/
+stats/
+Lib/
+Include/
+Scripts/
+
+# --- Notebooks Jupyter ---
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# --- Logs e temporários ---
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# --- Arquivos de configuração pessoais ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Arquivos de dados temporários ---
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.sav
+*.rdata
+*.rda
+*.parquet
+*.feather
+
+# --- Resultados de análises ou modelos ---
+outputs/
+results/
+models/
+plots/
+figures/
+
+# --- Build e distribuições ---
+build/
+dist/
+*.egg-info/
