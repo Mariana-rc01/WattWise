@@ -1,0 +1,8 @@
+pandas
+plotly
+joypy
+matplotlib
+seaborn
+jupyter
+ipykernel
+numpy
