@@ -1,0 +1,66 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Phase 5: Formulate Conclusions
+
+The analysis of self-consumption Production Units (UPACs) in Portugal for 2023–2024 provides an integrated view of how regional, sectoral, and power levels shape the national self-consumption landscape. Building on the outcomes of the data preparation and exploratory analyses (Phases 3.1–3.2), the dataset’s high granularity and verified integrity enabled consistent modeling across spatial, temporal, and voltage-level dimensions. The results across the three research questions converge on several coherent conclusions.
+
+#### RQ1:
+
+#### to do
+
+#### RQ2:
+
+Regional and power-level factors are the primary drivers of self-consumption patterns in Portugal, while seasonal effects are minimal. Industrial UPACs dominate installed capacity, but their distribution varies markedly across districts, with Évora, Aveiro, and Faro exhibiting distinct adoption patterns. Residential systems, though more numerous, contribute smaller capacities and also show clear regional disparities.
+
+Growth from 2023 to 2024 is consistent across sectors and districts, reflecting nationwide expansion. The robustness of these patterns, confirmed through multiple random stratified samplings, indicates that sectoral and regional differences are stable and not due to sampling variability.
+
+In summary, RQ2 demonstrates that self-consumption patterns are strongly shaped by the interaction of sector type and regional context: industrial capacity is concentrated in specific districts, residential capacity is more widely distributed, and seasonal variation has negligible impact. These results directly illustrate how power level and geography jointly structure Portugal’s self-consumption landscape.
+
+#### RQ3:
+
+#### to do
+
+#### Overall Interpretation
+
+Integrating results from data preparation, exploration, and inferential analysis, the Portuguese self-consumption sector exhibits a bifurcated structure: a broad residential base of small BTN systems and a narrow but powerful industrial segment connected via MT and AT levels. Voltage level consistently emerges as a decisive factor shaping both installation count and capacity magnitude. Regional disparities remain evident, mirroring socio-economic and infrastructural contrasts. The minimal seasonal influence confirms that self-consumption, predominantly solar,is a stable, continuous contributor to decentralized generation.
+
+In summary, the 2023–2024 period represents a consolidation phase for self-consumption in Portugal. Household adoption continues to expand, industrial investment is accelerating, and spatial diversity persists as a defining characteristic. By tracing these outcomes back to the structured data preparation and exploratory phases, the analysis provides a comprehensive and empirically grounded picture of Portugal’s evolving, decentralized energy landscape.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Phase 6: Look Back and Ahead
+
+
+The findings of this research provide a foundation for expanding the analysis of self-consumption in Portugal. Building on the 2023–2024 results, future work could develop in three complementary directions:
+
+
+**Temporal Extension and Forecasting**
+
+Extending the dataset beyond 2024 would enable modeling of medium-term growth trends and potential market saturation. Including future policy measures, such as storage incentives, could help assess regulatory effectiveness and forecast adoption trajectories.
+
+
+**Spatial and Socio-economic Integration**
+
+
+Combining UPAC data with demographic, income, and land-use indicators could uncover the socio-economic drivers of renewable adoption. Such integration would support evidence-based incentives that address spatial disparities and encourage balanced regional expansion.
+
+
+**Technical and Environmental Assessment**
+
+Merging capacity data with actual generation outputs and meteorological information would allow evaluation of system performance and carbon-offset potential, linking deployment data to tangible environmental benefits.
+
+From a policy perspective, the findings highlight the importance of continued support for residential-scale adoption, alongside enhanced facilitation of industrial-scale integration. Reducing regional disparities, particularly in interior districts, would further promote territorial equity and accelerate Portugal’s shift toward a decentralized, renewable-based energy system.
+
+------------------------------
