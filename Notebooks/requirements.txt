@@ -6,3 +6,4 @@ plotly
 scipy
 seaborn
 statsmodels
+scikit-posthocs
