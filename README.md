@@ -1,5 +1,7 @@
 # Analysis of Self-Consumption Energy Systems in Portugal (2023–2024)
 
+## Grade: 19.6/20 :star:
+
 ## Overview
 
 This project investigates the deployment and growth of **Total Production Units for Self-Consumption (UPACs)** in Portugal during 2023–2024. Using a comprehensive dataset from **e-Redes**, the study examines how **regional, seasonal, and technical factors** shape the distribution and evolution of residential and industrial self-consumption energy systems.
